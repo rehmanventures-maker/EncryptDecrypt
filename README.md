@@ -1,4 +1,4 @@
-#🧪 Project Overview
+##🧪 Project Overview
 
 This is a **Python CLI-based string encryption tool** designed for learning and practicing encryption standards.  
 It allows users to input a string, encrypt it using multiple algorithms, and optionally decrypt reversible formats.  
